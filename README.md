@@ -1,16 +1,15 @@
-### Hi there 👋
+- 👋 Hi, I’m @charleshpalmer, a Software Developer based in Southampton.
 
-<!--
-**charlespalmerbf/charlespalmerbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in 
+Front-End Languages, Libraries and Frameworks, such as JavaScript & React.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning 
+Ruby/Ruby On Rails,
+Voice Recognition Platforms, 
+Python Web Scrapers &
+Discord Bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+charliehp@btconnect.com
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charlespalmerbf&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
