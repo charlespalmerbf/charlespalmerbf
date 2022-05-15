@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @charleshpalmer, a Software Developer based in Southampton.
+- 👋 Hi, I’m @charleshpalmer, a Software Developer based in Southampton working for @Blue Frontier, a full service digital agency located in Salisbury, Southampton & Bristol.
 
 - 👀 I’m interested in 
 Front-End Languages, Libraries and Frameworks, such as JavaScript & React.
 
 - 🌱 I’m currently learning 
-Ruby/Ruby On Rails,
-Voice Recognition Platforms, 
-Python Web Scrapers &
-Discord Bots
+Documentation Websites using @docusaurus.io.
+Laravel (PHP Application Framework)
+
 
 - 📫 How to reach me: 
-charliehp@btconnect.com
+charliehp@btconnect.com/charlie.palmer@bluefrontier.co.uk
 
 
 
