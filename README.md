@@ -9,7 +9,7 @@ Laravel (PHP Application Framework)
 
 
 - 📫 How to reach me: 
-charliehp@btconnect.com/charlie.palmer@bluefrontier.co.uk
+charlie.palmer@bluefrontier.co.uk
 
 
 
