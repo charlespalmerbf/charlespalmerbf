@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charleshpalmer, a Software Developer based in Southampton working for @Blue Frontier, a full service digital agency located in Salisbury, Southampton & Bristol.
+- 👋 Hi, I’m @charlespalmerbf, a Software Developer based in Southampton working for @Blue Frontier, a full service digital agency located in Salisbury, Southampton & Bristol.
 
 - 👀 I’m interested in 
 Front-End Languages, Libraries and Frameworks, such as JavaScript & React.
