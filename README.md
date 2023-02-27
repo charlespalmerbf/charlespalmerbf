@@ -4,8 +4,7 @@
 Front-End Languages, Libraries and Frameworks, such as JavaScript & React.
 
 - 🌱 I’m currently learning 
-Documentation Websites using @docusaurus.io.
-Laravel (PHP Application Framework)
+Documentation Websites using @docusaurus.io, Dart & Flutter.
 
 
 - 📫 How to reach me: 
