@@ -13,3 +13,4 @@ charlie.palmer@bluefrontier.co.uk
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charlespalmerbf&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
