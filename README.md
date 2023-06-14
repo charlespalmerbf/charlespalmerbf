@@ -20,10 +20,3 @@ charlie.palmer@bluefrontier.co.uk
 #### Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlespalmerbf&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-#### NPM Downloads
-
-[<iframe
-    src="http://charlespalmerbf.github.io/npm-downloads-badge/badge.html?module=MODULE&name=false"
-    allowtransparency="true" frameborder="0" scrolling="0" width="100" height="20">
-</iframe>](https://img.shields.io/npm/dw/@charlespalmerbf/array-rows)https://img.shields.io/npm/dw/@charlespalmerbf/array-rows)
