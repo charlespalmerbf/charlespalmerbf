@@ -8,6 +8,8 @@ Front-End Languages, Libraries and Frameworks, such as JavaScript & React.
 - 🌱 I’m currently learning 
 Documentation Websites using @docusaurus.io, Dart & Flutter.
 
+- 🚀 I’m currently working on my AWS Certified Solutions Architect certification, you can see my progress so far @ https://www.credly.com/users/charlespalmerbf.
+
 - 💻 I write npm packages over @ https://www.npmjs.com/~charlespalmerbf
 
 - 📫 How to reach me: 
