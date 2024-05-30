@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=charlespalmerbf)
+
 #### About Me
 
 - 👋 Hi, I’m @charlespalmerbf, a Software Developer based in Salisbury working for @Blue Frontier, a full service digital agency located in Salisbury, Southampton & Bristol.
