@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Documentation Websites using @docusaurus.io, Dart & Flutter.
 
-- 🚀 I’m currently working on my AWS Associate Solutions Architect certification.
+- 🚀 I’m currently working on my AWS Solutions Architect Associate certification.
 
 - 🎯 You can see my progress so far @ https://www.credly.com/users/charlespalmerbf.
 
