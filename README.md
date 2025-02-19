@@ -16,9 +16,11 @@
 
 - 📫 How to reach me: charlie.palmer@bluefrontier.co.uk
 
-#### Commit History
+<!--  
+#### Commit History  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charlespalmerbf&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charlespalmerbf&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+-->
 
 #### Most Used Languages
 
