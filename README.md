@@ -10,7 +10,7 @@
 
 - 🚀 I’m currently working on my AWS Solutions Architect Associate certification.
 
-- 🎯 You can see my progress so far @ https://www.credly.com/users/charlespalmerbf.
+- 🎯 You can see my progress so far @ https://www.credly.com/users/charlespalmerbf
 
 - 💻 I write npm packages over @ https://www.npmjs.com/~charlespalmerbf
 
