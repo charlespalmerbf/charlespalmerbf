@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Front-End Languages, Libraries and Frameworks, such as JavaScript & React.
 
-- 🌱 I’m currently learning Documentation Websites using @docusaurus.io, Dart & Flutter and game development using Godot.
+- 🌱 I’m currently learning Documentation Websites using @docusaurus.io, Python, Dart & Flutter and game development using Godot.
 
 - 🚀 I’m currently working on my AWS Solutions Architect Associate certification.
 
