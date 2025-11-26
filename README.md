@@ -22,10 +22,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charlespalmerbf&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 -->
 
-#### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlespalmerbf&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 #### Accreditations
 
 ![image (2)](https://github.com/charlespalmerbf/charlespalmerbf/assets/85505220/d58b95fc-1eef-4b13-acd7-3e83e48f1e3a)
